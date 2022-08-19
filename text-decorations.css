@@ -1,0 +1,10 @@
+.decoration{
+  /*ｒｇｂで色を指定 */
+  color:rgb(10, 100, 142);
+  /* borderプロパティにsolidを指定すると実線に、dashedを指定すると破線に */
+/*文字に影をつけるには、右方向の長さ、下方向の長さ、影のボケ具合、影の色の順で値を入れる */
+font-weight: bold;
+}
+.text-bold{
+  font-weight: bold;
+}
